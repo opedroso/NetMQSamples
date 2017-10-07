@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetMQSamples", "NetMQSamples\NetMQSamples.csproj", "{DC515D30-1482-485C-A2D4-78B2573F741D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC515D30-1482-485C-A2D4-78B2573F741D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC515D30-1482-485C-A2D4-78B2573F741D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC515D30-1482-485C-A2D4-78B2573F741D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC515D30-1482-485C-A2D4-78B2573F741D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22D4F245-83F0-4783-82B7-FF8C904886EE}
+	EndGlobalSection
+EndGlobal
